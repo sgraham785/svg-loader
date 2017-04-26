@@ -1,3 +1,5 @@
-# svg-loader
+# svg-parse-loader
 
-SVG loader for webpack
+SVG parser as a Webpack loader
+
+
