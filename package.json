@@ -1,6 +1,6 @@
 {
   "name": "svg-parse-loader",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Sean Graham @sgraham785",
   "description": "SVG parser for use as webpack loader",
   "licenses": [
